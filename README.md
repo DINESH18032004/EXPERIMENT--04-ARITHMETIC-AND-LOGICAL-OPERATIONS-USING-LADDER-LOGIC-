@@ -1,8 +1,8 @@
 # EXPERIMENT--04-ARITHMETIC-AND-LOGICAL-OPERATIONS-USING-LADDER-LOGIC
-# NAME: Sanjay M
+#  NAME: SANJAY M
 # REGISTER NUMBER: 212222110038
-# DEPARTMENT: CSE(IOT) 
-# YEAR: IV
+# DEPARTMENT: CSE (IOT)
+# YEAR:  IV
 ## Aim:
 To understand and implement various arithmetic and logical operations in Programmable Logic Controller (PLC) ladder logic.
 
@@ -108,9 +108,39 @@ Test the arithmetic and logical operations with physical push buttons and observ
 
 
 ##  Simulation Screenshots:
+### ADD
+<img width="1915" height="1072" alt="Screenshot 2025-10-09 090712" src="https://github.com/user-attachments/assets/c8a53f39-797a-4e6a-8d06-6d371d38723c" />
+
+### SUB
+<img width="1916" height="1072" alt="Screenshot 2025-10-09 090727" src="https://github.com/user-attachments/assets/de23f1f2-883a-4bfd-aeb9-60a7082ebb46" />
 
 ### MUL
-<img width="1496" height="689" alt="image" src="https://github.com/user-attachments/assets/cf684909-8686-4674-806e-98541ce33ad3" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090738" src="https://github.com/user-attachments/assets/bced90a9-b327-4896-8832-2c43f94da288" />
+
+### DIV
+<img width="1919" height="1077" alt="Screenshot 2025-10-09 090749" src="https://github.com/user-attachments/assets/e75b3761-41a5-4647-9323-92349e563912" />
+
+### INCREMENT
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090802" src="https://github.com/user-attachments/assets/7a02859d-ef95-4f8c-bdb8-aed5f547b856" />
+
+### DECREMENT
+<img width="1919" height="1075" alt="Screenshot 2025-10-09 090813" src="https://github.com/user-attachments/assets/b687e876-923e-426b-b841-08671dad39e4" />
+
+### AND
+<img width="1915" height="1074" alt="Screenshot 2025-10-09 090825" src="https://github.com/user-attachments/assets/6602b419-0a3d-4190-962a-342a2a698937" />
+
+### OR
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090835" src="https://github.com/user-attachments/assets/82b410a7-8d87-4117-aae3-14e45380aa05" />
+
+### XOR
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090845" src="https://github.com/user-attachments/assets/ac8c6df4-dc27-4b19-affc-fdd3b14c5714" />
+
+### NEG
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090845" src="https://github.com/user-attachments/assets/b2903e6f-fe7d-4c7b-967e-5edc26332939" />
+
+### MUL16
+<img width="1919" height="1079" alt="Screenshot 2025-10-09 090924" src="https://github.com/user-attachments/assets/629ea983-bfc7-4998-9d42-4c972120fa63" />
+
 
 
 ## Results:
